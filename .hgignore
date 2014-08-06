@@ -1,0 +1,5 @@
+syntax: glob
+source/bin
+source/obj
+*.user
+*.suo
